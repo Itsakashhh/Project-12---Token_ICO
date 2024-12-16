@@ -1,6 +1,8 @@
 # TokenICO Smart Contract
 
 Please use "forge init" before using this Smart Contract.
+
+
 This `TokenICO` smart contract facilitates the sale of ERC20 tokens through an Initial Coin Offering (ICO). It is designed to allow users to purchase tokens using Ether (ETH) while providing functionalities for the contract owner to manage the ICO effectively.
 
 ---
